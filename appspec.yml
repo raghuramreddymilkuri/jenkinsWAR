@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-   - source: /target
+   - source: /target/finalbuild
      destination: /opt/apache-tomcat-8.5.35/webapps
